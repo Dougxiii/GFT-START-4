@@ -43,6 +43,4 @@ public abstract class Conta {
         System.out.println("Numero: "+ this.getNumero());
 
     }
-
-    public abstract void rendimentos(double valorRendimento);
 }
